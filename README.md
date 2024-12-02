@@ -57,4 +57,33 @@ Buat file baru dengan nama tambah.php pada folder lab9_tugas
 
 ![Screenshot 2024-12-02 173726](https://github.com/user-attachments/assets/eadadcfc-0eef-4653-9984-c5a62cd22ad0)
 
+## <b> LANGKAH 6 </b>
+Buat file baru dengan nama ubah.php pada folder lab9_tugas
+![Screenshot 2024-12-02 173752](https://github.com/user-attachments/assets/cfe89861-65f9-4926-b67d-afbf37a7bdd2)
+
+![Screenshot 2024-12-02 173808](https://github.com/user-attachments/assets/d121b37b-c7b3-40c2-b139-f52aac90eb48)
+
+![Screenshot 2024-12-02 173818](https://github.com/user-attachments/assets/2e56cb9c-b98f-4843-8a20-fcd23c54af6e)
+
+## <b> LANGKAH 7 </b>
+Buat file baru dengan nama hapus.php pada folder lab9_tugas
+![Screenshot 2024-12-02 173830](https://github.com/user-attachments/assets/32862c85-211d-48f4-a38a-6d2396ebd001)
+
+## <b> LANGKAH 8 </b>
+Buat file baru dengan nama style.css pada folder lab9_tugas untuk memperbagus tampilan.
+![Screenshot 2024-12-02 173846](https://github.com/user-attachments/assets/1876966f-e7ba-4112-a1d2-da9e7d34a305)
+
+![Screenshot 2024-12-02 173901](https://github.com/user-attachments/assets/99818306-7dd9-46f8-a756-a2989833850e)
+
+![Screenshot 2024-12-02 173916](https://github.com/user-attachments/assets/1021d7f6-e6bf-4d53-80f3-1c23d811e950)
+
+## <b> HASIL </b>
+Tampilan Home
+![Screenshot 2024-12-02 164148](https://github.com/user-attachments/assets/dc533486-b645-408e-ae75-1665b5a597ff)
+
+Tampilan Ubah Barang
+![Screenshot 2024-12-02 164229](https://github.com/user-attachments/assets/2e48e977-2b25-4790-9fe8-ee774ac0d261)
+
+Tampilan Tambah Barang
+![Screenshot 2024-12-02 164257](https://github.com/user-attachments/assets/87210b30-75ce-48c7-9ae4-f0c1373f839f)
 
